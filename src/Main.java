@@ -3,7 +3,7 @@ import java.util.Collections;
 
 class Main {
     public static void main(String[] args) {
-        // Create some employees and students
+        
         Employee e1 = new Employee("John", "Lennon", "Singer", 27045.78);
         Employee e2 = new Employee("George", "Harrison", "Guitarist", 50000.00);
         Student s1 = new Student("Ringo", "Starr", 2.5);
